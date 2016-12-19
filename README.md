@@ -14,7 +14,7 @@ Modern PHP - 去框架的组件化现代PHP开发方法
 ### MySQL
 
 
-高性能MySQL - MySQL优化方法
+高性能MySQL - MySQL优化方法[Note](https://github.com/looking4soul/hpm)
 
 
 ### Redis
@@ -22,6 +22,9 @@ Modern PHP - 去框架的组件化现代PHP开发方法
 Redis实战 - Redis实战用例丰富
 
 ### MongoDB
+
+
+MongoDB白皮书 - 架构指南[link](https://www.mongodb.com/collateral/mongodb-architecture-guide)
 
 MongoDB权威指南 - MongoDB基础知识、核心概念、开发、复制、分片、管理
 
